@@ -1,3 +1,7 @@
+## New Master Trials v1.21
+- Merged Part I and Part II together
+
+
 ## New Master Trials v1.2 Part I Update
 - Recentered Guardians
 - Added new Silver Hammer and Red Pillar Texture
