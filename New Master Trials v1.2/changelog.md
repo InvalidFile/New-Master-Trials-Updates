@@ -1,3 +1,9 @@
+## New Master Trials v1.22
+- Changed Tank+ texture
+- Changed Ninja, Shinobi, and Kunoichi texture
+- Reverted Damage texture back to vanilla
+
+
 ## New Master Trials v1.21
 - Merged Part I and Part II together
 
@@ -8,7 +14,3 @@
 - Renamed Silver Hammer and Red Pillar
 - Changed Master Ninja Texture
 - Changed Master Koco Textures
-
-  
-## New Master Trials v1.2 Update Test ##
-- Testing lol
