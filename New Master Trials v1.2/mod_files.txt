@@ -1,1 +1,14 @@
+add raw/character/kodamaexpert.pac
+add raw/gedit/w5t02_gedit.pac
+add raw/gedit/w5t03_gedit.pac
+add raw/gedit/w5t04_gedit.pac
+add raw/gedit/w5t05_gedit.pac
+add raw/miniboss/ashura01.pac
+add raw/miniboss/blade04.pac
+add raw/miniboss/daruma03.pac
+add raw/miniboss/daruma04.pac
+add raw/miniboss/spider04.pac
+add raw/misc/mastertrial.pac
+add raw/text/text_common_en.pac
+add raw/text/text_dlc_common_en.pac
 add mod.ini
