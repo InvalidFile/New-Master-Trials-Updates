@@ -1,0 +1,40 @@
+{
+  "Groups": [
+    {
+      "Name": "Main",
+      "DisplayName": "New Master Trials - Settings",
+      "Elements": [
+        {
+          "Name": "IncludeDir0",
+          "DisplayName": "Trials",
+          "Description": [
+            "Select Part I and Part II"
+          ],
+          "Type": "BaseEnum",
+          "MinValue": null,
+          "MaxValue": null,
+          "DefaultValue": "default_config"
+        }
+      ]
+    }
+  ],
+  "Enums": {
+    "BaseEnum": [
+        {
+            "DisplayName": "Part I",
+            "Value": "default_config",
+            "Description": [
+                "Part I"
+            ]
+        },
+        {
+            "DisplayName": "Part II",
+            "Value": "partII_config",
+            "Description": [
+                "Part II"
+            ]
+        }
+    ]
+  },
+  "IniFile": "mod.ini"
+}
