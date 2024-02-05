@@ -1,6 +1,6 @@
 ## New Master Trials v1.23
 - Added Semi-Accurate Japanese Localization
-  Not sure how accurate the translation is, but hopefully its at least semi-accurate
+- Not sure how accurate the translation is, but hopefully its at least semi-accurate
 
 ## New Master Trials v1.22
 - Changed Tank+ texture
