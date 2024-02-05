@@ -1,3 +1,6 @@
+## New Master Trials v1.23
+- Added Semi-Accurate Japanese Localization
+
 ## New Master Trials v1.22
 - Changed Tank+ texture
 - Changed Ninja, Shinobi, and Kunoichi texture
