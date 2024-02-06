@@ -1,3 +1,9 @@
+## New Master Trials v1.30
+- Heavily Adjusted/Overhauled the Asura Trial
+- Changed the Tank+ Trial
+- Tank+ is only stunned when you cyloop it, instead of it spinning around mid-air.
+- Asura sends out more red boost rings, and has more health.
+
 ## New Master Trials v1.23
 - Added Semi-Accurate Japanese Localization
 - Not sure how accurate the translation is, but hopefully its at least semi-accurate
