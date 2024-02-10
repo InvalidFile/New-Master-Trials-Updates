@@ -1,3 +1,8 @@
+## New Master Trials v1.31
+- Reworked Asura time limit (back to 1 minute and 20 seconds!)
+- Reworked Tank+ attack patterns and speed
+- It now shoots faster and uses the lazer attack more often. It also doesn't spin anymore.
+
 ## New Master Trials v1.30
 - Heavily Adjusted/Overhauled the Asura Trial
 - Changed the Tank+ Trial
@@ -13,7 +18,6 @@
 - Changed Tank+ texture
 - Changed Ninja, Shinobi, and Kunoichi texture
 - Reverted Damage texture back to vanilla
-
 
 ## New Master Trials v1.21
 - Merged Part I and Part II together
