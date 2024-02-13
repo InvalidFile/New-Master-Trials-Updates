@@ -1,6 +1,7 @@
 ## New Master Trials v1.32
 - Experimental Quick Cyloop Rework (affects both trials and open zone)
 - Removed unused trial leftovers
+- You can now only use Quick Cyloop once.
 
 ## New Master Trials v1.31
 - Reworked Asura time limit (back to 1 minute and 20 seconds!)
