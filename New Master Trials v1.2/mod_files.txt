@@ -1,5 +1,5 @@
-add /default_config/raw/character/playercommon.pac
-add /partII_config/raw/character/playercommon.pac
+add default_config/raw/character/playercommon.pac
+add partII_config/raw/character/playercommon.pac
 add mod.ini
-delete /partII_config/raw/miniboss/spider01.pac
-delete /partII_config/raw/miniboss/spidercommon.pac
+delete partII_config/raw/miniboss/spider01.pac
+delete partII_config/raw/miniboss/spidercommon.pac
