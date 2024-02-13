@@ -1,6 +1,6 @@
 ## New Master Trials v1.32.1
-- Hopefully it actually updates now
-- Please update the mod hmm
+- The Mod actually updates now
+- For now the unused trial leftovers will stay
 
 ## New Master Trials v1.32
 - Experimental Quick Cyloop Rework (affects both trials and open zone)
