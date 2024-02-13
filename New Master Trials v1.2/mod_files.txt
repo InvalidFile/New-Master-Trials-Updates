@@ -33,5 +33,7 @@ add /partII_config/raw/text/text_dlc_common_en.pac
 add /partII_config/raw/text/text_dlc_common_ja.pac
 add /default_config/raw/character/playercommon.pac
 add /partII_config/raw/character/playercommon.pac
+delete /partII_config/raw/miniboss/spider01.pac
+delete /partII_config/raw/miniboss/spidercommon.pac
 add config.json
 add mod.ini
