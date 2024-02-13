@@ -1,5 +1,5 @@
 ## New Master Trials v1.32.1
-- The Mod actually updates now
+- The Mod will actually update now 
 - For now the unused trial leftovers will stay
 
 ## New Master Trials v1.32
