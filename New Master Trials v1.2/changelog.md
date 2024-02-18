@@ -1,3 +1,7 @@
+## New Master Trials v1.33
+- New Master Trial room textures
+- Part I has blue textures, while Part II is green.
+
 ## New Master Trials v1.32.1
 - The Mod will actually update now 
 - For now the unused trial leftovers will stay
