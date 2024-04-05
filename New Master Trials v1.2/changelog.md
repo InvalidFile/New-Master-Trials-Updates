@@ -3,6 +3,7 @@
 - QOL Change: There are now save files that you can select to go to a trial.
 - (Save 1 = Trial 1, Save 2 = Trial 2, Save 3 = Trial 3, Save 3 on Normal Save Slots = Trial 4)
 - There may be some leftovers from the Level Select mode, which will be put on indefinite hiatus for now.
+- If you didnt get the save files, redownload the latest version from Gamebanana.
 
 ## New Master Trials v1.33
 - New Master Trial room textures
