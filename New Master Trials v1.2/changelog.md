@@ -1,3 +1,11 @@
+## New Master Trials v1.50
+- Revamped most of the trial arenas.
+- Supercharged Asura Trial, Ninja+ Trial, Tank+ Trial, Sumo Trial, and Samurai Trial have changed arenas.
+- But, the other trials are still the same, but with some added fog effects.
+- Changed Tank+ Trial attack level from Level 25 -> 50 (Normal)
+- Changed config file descriptions to be slightly more informative
+- Hopefully the saves will actually download this time
+
 ## New Master Trials v1.40
 - Changed Asura texture again
 - QOL Change: There are now save files that you can select to go to a trial.
