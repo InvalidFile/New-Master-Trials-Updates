@@ -8,7 +8,7 @@
           "Name": "IncludeDir0",
           "DisplayName": "Trials",
           "Description": [
-            "Select Part I and Part II"
+            "Select the Trials"
           ],
           "Type": "BaseEnum",
           "MinValue": null,
@@ -24,14 +24,14 @@
             "DisplayName": "Part I",
             "Value": "default_config",
             "Description": [
-                "Part I"
+                "Part I - Features Supercharged Asura Trial, Spider Trial, Tower Trial, and Supercharged Ninja+ Trial."
             ]
         },
         {
             "DisplayName": "Part II",
             "Value": "partII_config",
             "Description": [
-                "Part II"
+                "Part II - Features Tank+ Trial, Sumo Trial, Samurai Trial, and Beetle Trial."
             ]
         }
     ]
