@@ -109,7 +109,6 @@ add /saves/
 add /saves/savedata/auto0/gamedata.sav
 add /saves/savedata/manual0/gamedata - Copy.sav
 add /saves/savedata/manual0/gamedata.sav
-add /saves/savedata/manual1/gamedata - Copy.sav
 add /saves/savedata/manual1/gamedata.sav
 add /saves/savedata/manual2/gamedata.sav
 add newmastertrials.hmm
