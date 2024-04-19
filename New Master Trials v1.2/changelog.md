@@ -1,3 +1,8 @@
+## v1.6 Hotfix
+- DO NOT DOWNLOAD FROM THE UPDATE SERVER AT THIS TIME. REDOWNLOAD/UPDATE FROM THE GAMEBANANA PAGE.
+- Fixed the hub room not showing up
+- May replace/remove this update server soon!
+
 ## Important note
 - Redownload the mod from Gamebanana. For some reason this update server won't download anything.
 
