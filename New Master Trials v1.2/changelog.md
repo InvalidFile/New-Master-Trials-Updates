@@ -1,3 +1,16 @@
+## New Master Trials v1.60 - Cyber Trials Update
+- Added four new trials: Cyber Tank Trial, Warrior Trial, Arachnid Trial, and Cyber Hammer Trial.
+- Added a new Hub Room, where you can access the trials easily.
+- Added some HMM Codes.
+- Redid the save system, there is now Minimum Skills and All Skills. (Third save file is also Minimum Skills)
+- Changed the save file icons
+- Renamed Supercharged Ninja+ Trial to Ninja+ Trial.
+- Adjusted text in Part I and II.
+- Changed Trial room textures for Part I and II.
+- Changed Master Koco textures.
+- Adjusted some guardian attacks and health.
+- Added a Koco that replaces the User Manual QR Code 
+
 ## New Master Trials v1.50
 - Revamped most of the trial arenas.
 - Supercharged Asura Trial, Ninja+ Trial, Tank+ Trial, Sumo Trial, and Samurai Trial have changed arenas.
