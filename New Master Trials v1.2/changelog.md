@@ -1,3 +1,6 @@
+## Important note
+- Redownload the mod from Gamebanana. For some reason this update server won't download anything.
+
 ## New Master Trials v1.60 - Cyber Trials Update
 - Added four new trials: Cyber Tank Trial, Warrior Trial, Arachnid Trial, and Cyber Hammer Trial.
 - Added a new Hub Room, where you can access the trials easily.
