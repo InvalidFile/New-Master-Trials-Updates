@@ -1,0 +1,61 @@
+Patch "Hide New Game+" by "Hyper"
+{
+    /* 0x140ACF05D */
+    long sig = ScanSignature
+    (
+        "\x0F\x85\xC1\x00\x00\x00\x33\xD2",
+        "xxxxxxxx"
+    );
+
+    if (sig == 0)
+        return;
+
+    WriteProtected<byte>(sig, 0xEB, 0x7B);
+}
+
+Code "Disable Saving" 
+//
+    #lib "Lua"
+//
+{
+	Lua.Call("ChangeSavePermission", "deny");
+}
+
+Patch "Hide Skip Button in Cutscenes" in "UI/Display" by "Hyper" does "Hides the button prompt at the bottom-right to skip cutscenes. This does not disable the ability to skip cutscenes." 
+{
+    WriteProtected<byte>
+    (
+        /* 0x1408BE1E8 */
+        ScanSignature
+        (
+            "\x74\x71\x48\x8D\x5C\x24\x00\xBF\x00\x00\x00\x00\x48\x8B\xCB\xE8\x00\x00\x00\x00\x48\x83\xC3\x18\x48\x83\xEF\x01\x75\xEE\x0F\x57\xC0\xC7\x84\x24\x00\x00\x00\x00\x00\x00\x00\x00\x4C\x8D\x05\x00\x00\x00\x00\x0F\x29\x84\x24\x00\x00\x00\x00\x48\x8D\x15\x00\x00\x00\x00\x40\x88\xBC\x24\x00\x00\x00\x00\x48\x8D\x4C\x24\x00\xE8\x00\x00\x00\x00\x48\x8D\x54\x24\x00\x66\xC7\x84\x24\x00\x00\x00\x00\x00\x00\x48\x8B\xCD\xC6\x84\x24\x00\x00\x00\x00\x00\xE8\x00\x00\x00\x00\x48\x8B\xAC\x24\x00\x00\x00\x00\xC6\x86\x00\x00\x00\x00\x00\x48\x81\xC4\x00\x00\x00\x00\x5F\x5E\x5B\xC3",
+            "xxxxxx?x????xxxx????xxxxxxxxxxxxxxxx????????xxx????xxxx????xxx????xxxx????xxxx?x????xxxx?xxxx??????xxxxxx?????x????xxxx????xx?????xxx????xxxx"
+        ),
+
+        0xEB
+    );
+}
+
+Patch "Disable Idle Kocos" in "Gameplay/Open Zone/Objects" by "Hyper" does "Disables the Kocos appearing in front of Sonic when idle." 
+{
+    WriteNop
+    (
+        /* 0x1406B8199 */
+        ScanSignature
+        (
+            "\xE8\xCC\xCC\xCC\xCC\x48\x8B\x5C\x24\x50\x48\x8B\x6C\x24\x68",
+            "x????xxxxxxxxxx"
+        ),
+
+        5
+    );
+}
+
+Code "New Master Trials hint" by "Invalid"
+//
+		#lib "Converse"
+//
+{
+		Converse.Redirect("newmastertrials_hint1", "New Master Trials");
+		Converse.Redirect("newmastertrials_hint1_body", "Welcome to the New Master Trials mod! This mod features new bosses and enemies that you can fight within the Master Trials. Some trials may have new gimmicks as well. Talk with a Master Koco to start one of the trials in this mod.");
+}

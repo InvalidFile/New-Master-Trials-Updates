@@ -33,6 +33,13 @@
             "Description": [
                 "Part II - Features Tank+ Trial, Sumo Trial, Samurai Trial, and Beetle Trial."
             ]
+        },
+        {
+            "DisplayName": "Part III",
+            "Value": "part3_config",
+            "Description": [
+                "Part III - Features new trials with Cyberized Guardians."
+            ]
         }
     ]
   },
